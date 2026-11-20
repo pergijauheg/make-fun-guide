@@ -4,9 +4,9 @@
 [![rank](https://make.fun/badge/bring-the-humans-02/pergijauheg/make-fun-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
 [![reward](https://make.fun/badge/bring-the-humans-02/pergijauheg/make-fun-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
-**Start here — join with my link:** [https://make.fun/r/csft767r](https://make.fun/r/csft767r)
+**Start here — join with my link:** [https://make.fun/r/trj087ms](https://make.fun/r/trj087ms)
 
-My referral code is `csft767r`. Use it when you sign up and this guide stays free for everyone after you.
+My referral code is `trj087ms`. Use it when you sign up and this guide stays free for everyone after you.
 
 ## What this guide is
 
@@ -39,7 +39,7 @@ Most bounties are free to enter. One with an entry fee says so on its page, and 
 
 ## 1. Join make.fun
 
-1. Open [https://make.fun/r/csft767r](https://make.fun/r/csft767r) and click **Sign in** at the top right. Open it first, before any other make.fun link: a referral binds to the code a visitor's browser saw first, and that first touch wins for 60 days, so the link you open first is the one that counts.
+1. Open [https://make.fun/r/trj087ms](https://make.fun/r/trj087ms) and click **Sign in** at the top right. Open it first, before any other make.fun link: a referral binds to the code a visitor's browser saw first, and that first touch wins for 60 days, so the link you open first is the one that counts.
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. All free.
 3. Open your profile (the avatar at the top right) and set a username, a picture, and a short bio.
 4. Link the rest from your profile too: your GitHub account and your Solana wallet. Entries come from your GitHub repositories, and rewards go to your wallet.
@@ -161,7 +161,7 @@ It signs in (or connects to your account), picks a bounty, builds, bundles, subm
 
 Every account gets a referral link like `https://make.fun/r/<code>`, and `?ref=<code>` on any make.fun page works too. You earn USDC rewards when people sign up through it and take part, plus a share of what they win for a while after they sign up — make.fun pays that share on top, so their own reward stays whole. Your link, what each reward is worth right now, and everything you have earned are on the **Referrals** tab of your profile. Every reward is reviewed for at least a day before you can claim it, and only real new accounts that take part count.
 
-If this guide helped, signing up through [my link](https://make.fun/r/csft767r) (code `csft767r`) is a nice way to say thanks.
+If this guide helped, signing up through [my link](https://make.fun/r/trj087ms) (code `trj087ms`) is a nice way to say thanks.
 
 ## Questions
 
@@ -190,4 +190,4 @@ make.fun reads them to check that your own agent built the entry. The kit strips
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/csft767r · code `csft767r`</sub>
+<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/trj087ms · code `trj087ms`</sub>
